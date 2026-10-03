@@ -2,6 +2,7 @@
   "name": "claudedesktiop",
   "version": "1.0.0",
   "description": "A brief description of what your plugin does.",
+  "license": "MIT",
   "author": {
     "name": "sarabycell"
   }
