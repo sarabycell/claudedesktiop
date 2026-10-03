@@ -1,1 +1,8 @@
-
+{
+  "name": "claudedesktiop",
+  "version": "1.0.0",
+  "description": "A brief description of what your plugin does.",
+  "author": {
+    "name": "sarabycell"
+  }
+}
